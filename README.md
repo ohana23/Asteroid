@@ -4,8 +4,11 @@ First video game project created in Java for Object-Oriented Programming.
 # The Game
 
 The world has run out of coffee, and only you can save it.
-You are a spaceship operator, and you have been sent out to extract coffee beans from extraterrestrial Arabica plants. Things were going fine... until the Asteroids showed up.
-Hold off as long as you can destroy as many Asteroids as possible. Don't let your planet down.
+
+You are a spaceship operator, and you have been sent out to extract coffee beans from extraterrestrial Arabica plants. If you don't get them soon, the planet will soon suffer from coffee withdrawal. That means low levels of productivity and extreme levels of passive-aggressiveness!
+
+Things were going fine... until the Asteroids showed up.
+Hold off as long as you can and destroy as many Asteroids as possible. Don't let your planet down.
 
 Up Arrow    -> Move Forward
 Left Arrow  -> Turn counterclockwise
