@@ -10,9 +10,16 @@ You are a spaceship operator, and you have been sent out to extract coffee beans
 Things were going fine... until the Asteroids showed up.
 Hold off as long as you can and destroy as many Asteroids as possible. Don't let your planet down.
 
+
 Up Arrow    -> Move Forward
+
+
 Left Arrow  -> Turn counterclockwise
+
+
 Right Arrow -> Turn clockwise
+
+
 Spacebar    -> Shoot Arabica seeds (as substitute for real missiles)
 
 # Execution Instructions
