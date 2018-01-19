@@ -29,3 +29,5 @@ In the command-line:
   
   To start the game:
   > java -jar AsteroidGame.jar
+
+![alt text](Asteroid/Screen Shot 2018-01-19 at 2.37.53 PM.png)
